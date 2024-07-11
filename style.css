@@ -1,0 +1,62 @@
+body {
+  color: #333333;
+}
+
+p,
+li {
+  font-family: Tahoma, sans-serif;
+}
+
+p,
+ul,
+ol {
+  line-height: 30px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.intro,
+.ingredients,
+.steps {
+  margin-bottom: 70px;
+}
+
+#index-title {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav {
+  list-style-type: none;
+  text-align: center; 
+  padding: 0;
+  margin: 0;
+}
+
+.nav li {
+display: inline-block;
+padding: 20px;
+}
+
+.preview-img {
+  width: 200px;
+  height: auto;
+  padding: 10px 0;
+}
+
+.ingredients li {
+  list-style-position: inside;
+  background-color: #ffcccc41;
+  margin: 10px 0;
+}
+
+.steps li{
+  list-style-position: inside;
+  background-color: #ffeacc88;
+  margin: 20px 0;
+}
